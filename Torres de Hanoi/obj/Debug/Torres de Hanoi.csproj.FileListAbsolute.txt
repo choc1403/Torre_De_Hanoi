@@ -1,0 +1,49 @@
+C:\Users\Wilson Sevilla\source\repos\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe.config
+C:\Users\Wilson Sevilla\source\repos\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe
+C:\Users\Wilson Sevilla\source\repos\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.pdb
+C:\Users\Wilson Sevilla\source\repos\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csprojAssemblyReference.cache
+C:\Users\Wilson Sevilla\source\repos\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Form1.resources
+C:\Users\Wilson Sevilla\source\repos\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Properties.Resources.resources
+C:\Users\Wilson Sevilla\source\repos\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.GenerateResource.cache
+C:\Users\Wilson Sevilla\source\repos\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Sevilla\source\repos\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.exe
+C:\Users\Wilson Sevilla\source\repos\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.pdb
+C:\Users\Wilson Sevilla\source\repos\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Palos.resources
+C:\Users\Wilson Sevilla\Desktop\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe.config
+C:\Users\Wilson Sevilla\Desktop\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe
+C:\Users\Wilson Sevilla\Desktop\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.pdb
+C:\Users\Wilson Sevilla\Desktop\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csprojAssemblyReference.cache
+C:\Users\Wilson Sevilla\Desktop\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Form1.resources
+C:\Users\Wilson Sevilla\Desktop\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Palos.resources
+C:\Users\Wilson Sevilla\Desktop\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Properties.Resources.resources
+C:\Users\Wilson Sevilla\Desktop\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.GenerateResource.cache
+C:\Users\Wilson Sevilla\Desktop\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Sevilla\Desktop\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.exe
+C:\Users\Wilson Sevilla\Desktop\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.pdb
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe.config
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.pdb
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.AssemblyReference.cache
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Form1.resources
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Palos.resources
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Properties.Resources.resources
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.GenerateResource.cache
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.CoreCompileInputs.cache
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.exe
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.pdb
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.TorreDeHanoi.resources
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Confirmacion.resources
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe.config
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.pdb
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.AssemblyReference.cache
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Confirmacion.resources
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Form1.resources
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Palos.resources
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Properties.Resources.resources
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.TorreDeHanoi.resources
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.GenerateResource.cache
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.CoreCompileInputs.cache
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.exe
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.pdb
+E:\CHOC\COSAS DE LA U\Cuarto Semestre\MateComputo\Proyecto1\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres_de_Hanoi.Carga.resources
